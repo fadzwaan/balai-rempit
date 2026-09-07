@@ -3,7 +3,7 @@ The important distinction is that you're cataloguing **publicly available posts 
 
 A good structure would be:
 
-### Balai Rempit — Core catalogue
+### Balai Rempit — Core catalogue [Google Link](https://docs.google.com/forms/d/e/1FAIpQLScEh_0i-8c2-AGRziehzr8aVd25ApmkBsLg_kyPPd5Dn-YdyQ/viewform)
 
 | Field                   | What to record                                            |
 | ----------------------- | --------------------------------------------------------- |
